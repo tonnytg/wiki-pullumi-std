@@ -65,8 +65,8 @@ github.com/go-git/go-git/v5 v5.12.0/go.mod h1:FTM9VKtnI2m65hNI/TenDDDnUf2Q9FHnXY
 github.com/gogo/protobuf v1.3.1/go.mod h1:SlYgWuQ5SjCEi6WLHjHCa1yvBfUnHcTbrrZtXPKa29o=
 github.com/gogo/protobuf v1.3.2 h1:Ov1cvc58UF3b5XjBnZv7+opcTcQFZebYjWzi34vdm4Q=
 github.com/gogo/protobuf v1.3.2/go.mod h1:P1XiOD3dCwIKUDQYPy72D8LYyHL2YPYrpS2s69NZV8Q=
-github.com/golang/glog v1.2.0 h1:uCdmnmatrKCgMBlM4rMuJZWOkPDqdbZPnrMXDY4gI68=
-github.com/golang/glog v1.2.0/go.mod h1:6AhwSGph0fcJtXVM/PEHPqZlFeoLxhs7/t5UDAwmO+w=
+github.com/golang/glog v1.2.4 h1:CNNw5U8lSiiBk7druxtSHHTsRWcxKoac6kZKm2peBBc=
+github.com/golang/glog v1.2.4/go.mod h1:6AhwSGph0fcJtXVM/PEHPqZlFeoLxhs7/t5UDAwmO+w=
 github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da h1:oI5xCqsCo564l8iNU+DwB5epxmsaqB+rhGL0m5jtYqE=
 github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da/go.mod h1:cIg4eruTrX1D+g88fzRXU5OdNfaM+9IcxsU14FzY7Hc=
 github.com/golang/protobuf v1.5.4 h1:i7eJL8qZTpSEXOPTxNKhASYpMn+8e5Q6AdndVa1dWek=
@@ -148,8 +148,8 @@ github.com/pulumi/appdash v0.0.0-20231130102222-75f619a67231 h1:vkHw5I/plNdTr435
 github.com/pulumi/appdash v0.0.0-20231130102222-75f619a67231/go.mod h1:murToZ2N9hNJzewjHBgfFdXhZKjY3z5cYC1VXk+lbFE=
 github.com/pulumi/esc v0.6.2 h1:+z+l8cuwIauLSwXQS0uoI3rqB+YG4SzsZYtHfNoXBvw=
 github.com/pulumi/esc v0.6.2/go.mod h1:jNnYNjzsOgVTjCp0LL24NsCk8ZJxq4IoLQdCT0X7l8k=
-github.com/pulumi/pulumi-gcp/sdk/v7 v7.23.0 h1:fwJvHzrxsNgxLoNkAKEm3wch9ngVG/PP1GFwfhl5n4M=
-github.com/pulumi/pulumi-gcp/sdk/v7 v7.23.0/go.mod h1:CKJax8Wg7NxtKA65m5nWDIyQwaclK4ZGWJlxQkfZ8YQ=
+github.com/pulumi/pulumi-gcp/sdk/v6 v6.67.1 h1:PUH/sUbJmBmHjNFNthJ/dW2+riFuJV0FhrGAwuUuRIg=
+github.com/pulumi/pulumi-gcp/sdk/v6 v6.67.1/go.mod h1:OmZeji3dNMwB1qldAlaQfcfJPc2BaZyweVGH7Ej4SJg=
 github.com/pulumi/pulumi/sdk/v3 v3.117.0 h1:ImIsukZ2ZIYQG94uWdSZl9dJjJTosQSTsOQTauTNX7U=
 github.com/pulumi/pulumi/sdk/v3 v3.117.0/go.mod h1:kNea72+FQk82OjZ3yEP4dl6nbAl2ngE8PDBc0iFAaHg=
 github.com/rivo/uniseg v0.1.0/go.mod h1:J6wj4VEh+S6ZtnVlnTBMWIodfgj8LQOQFoIToxlJtxc=
